@@ -1,0 +1,121 @@
+@page "/Student"
+@using WebApplication.Models
+@using WebApplication.Authentication
+@inject AuthenticationStateProvider AuthenticationStateProvider
+
+<head>
+    <link rel="stylesheet" href="css/gradeTable.css">
+    <link rel="stylesheet" href="css/overallTheme.css">
+</head>
+
+<div>
+    <h2 class="blue-border center-horiz">Student - <b>@student.FirstName @student.LastName</b>, ID = @student.Id</h2>
+</div>
+
+<br>
+
+<div class="blue-border">
+<table>
+    @foreach (String course in courses)
+    {
+        <tr>
+            <th class="course">@course</th>
+            <tr>
+                <td style="width: 7em">Grades</td>
+                <tr>
+                    @foreach (Grade grade in student.Grades)
+                    {
+                        string gradeOpacity = "0." + (int)(grade.GradeValue*0.9);
+                        if (grade.GradeValue == 10) gradeOpacity = "1";
+                        string gradeColor = "rgba(15, 180, 255, " + gradeOpacity + ")";
+                        if (grade.Course.Equals(course))
+                        {
+                            <td class="cell" style="background-color: @gradeColor">@grade.GradeValue</td>
+                        }
+                    }
+                </tr>
+                <tr>
+                    @foreach (Grade grade in student.Grades)
+                    {
+                        if (grade.Course.Equals(course))
+                        {
+                            <td class="cell">@grade.Date</td>
+                        }
+                    }
+                </tr>
+            </tr>
+            <tr>
+                <td style="width: 7em">Absences</td>
+                <tr>
+                    @foreach (Absence absence in student.Absences)
+                    {
+                        if (absence.Course.Equals(course))
+                        {
+                            if (absence.Motivated)
+                            {
+                                <td class="cell" style="background-color: #8aff78">Motivated</td>
+                            }
+                            else
+                            {
+                                <td class="cell" style="background-color: #ff606f">Unmotivated</td>   
+                            }
+                        }
+                    }
+                </tr>
+                <tr>
+                    @foreach (Absence absence in student.Absences)
+                    {
+                        if (absence.Course.Equals(course))
+                        {
+                            <td class="cell">@absence.Date</td>
+                        }
+                    }
+                </tr>
+            </tr>
+        </tr>
+    }
+</table>
+</div>
+
+<br>
+
+<div class="blue-border center-horiz">
+<h4>Student's address: <b>@student.Address</b></h4>
+<h4>Student's phone number: <b>@student.PhoneNumber</b></h4>
+</div>
+
+<br>
+
+@code {
+    Student student = CustomAuthenticationStateProvider.CachedStudent;
+    List<string> courses = new List<string>();
+
+    private void ExtractCourses()
+    {
+        foreach (Grade grade in student.Grades)
+        {
+            if (courses == null)
+            {
+                courses.Add(grade.Course);
+            }
+            else if (!courses.Contains(grade.Course))
+            {
+                courses.Add(grade.Course);
+            }
+        }
+        foreach (Absence absence in student.Absences)
+        {
+            if(courses==null) courses.Add(absence.Course);
+            else if (!courses.Contains(absence.Course))
+            {
+                courses.Add(absence.Course);
+            }
+        }
+    }
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        ExtractCourses();
+    }
+}

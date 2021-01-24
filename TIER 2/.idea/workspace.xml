@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41aec7ce-4f30-46ba-a017-f887b813f75a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tier1Mediator/Tier1ApiConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/tier1Mediator/Tier1ApiConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER 3 -DBS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER 3 -DBS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER 3 -DBS/out/production/SEP3 - TIER 3 -DBS/Model/ModelManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER 3 -DBS/out/production/SEP3 - TIER 3 -DBS/Model/ModelManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER 3 -DBS/src/Model/ModelManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER 3 -DBS/src/Model/ModelManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/.idea/.idea.Gradebook.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/.idea/.idea.Gradebook.dir/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/.idea/.idea.Gradebook.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/.idea/.idea.Gradebook.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Data/SecretaryService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Data/SecretaryService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Models/Absence.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Models/Absence.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Models/Class.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Models/Class.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Models/Course.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Models/Course.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Models/Grade.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Models/Grade.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Models/Secretary.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Models/Secretary.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Models/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Models/Student.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Models/Teacher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Models/Teacher.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Pages/TeacherView.razor" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Pages/TeacherView.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Shared/MainLayout.razor" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/Shared/MainLayout.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.StaticWebAssets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.StaticWebAssets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.TagHelpers.output.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.TagHelpers.output.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/App.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/App.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/Login.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/Login.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/SecretaryClass.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/SecretaryClass.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/SecretaryLogin.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/SecretaryLogin.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/SecretarySidebar.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/SecretarySidebar.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/SecretaryStudent.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/SecretaryStudent.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/SecretaryTeacher.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/SecretaryTeacher.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/StudentView.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/StudentView.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/TeacherView.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/TeacherView.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/_Host.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Pages/_Host.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Shared/MainLayout.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/Shared/MainLayout.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/_Imports.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/Razor/_Imports.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/App.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/App.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Gradebook.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Gradebook.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Gradebook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Gradebook.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Login.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Login.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/SecretaryClass.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/SecretaryClass.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/SecretaryLogin.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/SecretaryLogin.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/SecretarySidebar.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/SecretarySidebar.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/SecretaryStudent.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/SecretaryStudent.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/SecretaryTeacher.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/SecretaryTeacher.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/StudentView.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/StudentView.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/TeacherView.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/TeacherView.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/MainLayout.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/MainLayout.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/_Imports.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/RazorDeclaration/_Imports.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/staticwebassets/Gradebook.StaticWebAssets.Manifest.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/staticwebassets/Gradebook.StaticWebAssets.Manifest.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/staticwebassets/Gradebook.StaticWebAssets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Debug/netcoreapp3.1/staticwebassets/Gradebook.StaticWebAssets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Gradebook.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Gradebook.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Gradebook.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/Gradebook.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../SEP3 - TIER1/Gradebook/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kynIo3rqtwHPMHLLO477vkdtOO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/example/gson-2.8.6.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Main" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41aec7ce-4f30-46ba-a017-f887b813f75a" name="Default Changelist" comment="" />
+      <created>1606681621468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606681621468</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="830" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1606751028034">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="830" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112/2560.-253.1080.1880/-1080.-247.1080.1880@0.0.2048.1112" timestamp="1606751028034" />
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1606681672922">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112/2560.-253.1080.1880/-1080.-247.1080.1880@0.0.2048.1112" timestamp="1606681672922" />
+    <state width="2005" height="147" key="GridCell.Tab.0.bottom" timestamp="1607705553215">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1037" height="294" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.-253.1080.1880/-1080.-247.1080.1880@-1080.-247.1080.1880" timestamp="1607433735123" />
+    <state width="2005" height="147" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.-253.1080.1880/-1080.-247.1080.1880@0.0.2048.1112" timestamp="1607705553215" />
+    <state width="2005" height="147" key="GridCell.Tab.0.center" timestamp="1607705553215">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1037" height="294" key="GridCell.Tab.0.center/0.0.2048.1112/2560.-253.1080.1880/-1080.-247.1080.1880@-1080.-247.1080.1880" timestamp="1607433735123" />
+    <state width="2005" height="147" key="GridCell.Tab.0.center/0.0.2048.1112/2560.-253.1080.1880/-1080.-247.1080.1880@0.0.2048.1112" timestamp="1607705553215" />
+    <state width="2005" height="147" key="GridCell.Tab.0.left" timestamp="1607705553215">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1037" height="294" key="GridCell.Tab.0.left/0.0.2048.1112/2560.-253.1080.1880/-1080.-247.1080.1880@-1080.-247.1080.1880" timestamp="1607433735123" />
+    <state width="2005" height="147" key="GridCell.Tab.0.left/0.0.2048.1112/2560.-253.1080.1880/-1080.-247.1080.1880@0.0.2048.1112" timestamp="1607705553215" />
+    <state width="2005" height="147" key="GridCell.Tab.0.right" timestamp="1607705553215">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1037" height="294" key="GridCell.Tab.0.right/0.0.2048.1112/2560.-253.1080.1880/-1080.-247.1080.1880@-1080.-247.1080.1880" timestamp="1607433735123" />
+    <state width="2005" height="147" key="GridCell.Tab.0.right/0.0.2048.1112/2560.-253.1080.1880/-1080.-247.1080.1880@0.0.2048.1112" timestamp="1607705553215" />
+    <state x="505" y="131" key="SettingsEditor" timestamp="1607175384379">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="131" key="SettingsEditor/0.0.2048.1112/2560.-253.1080.1880/-1080.-247.1080.1880@0.0.2048.1112" timestamp="1607175384379" />
+  </component>
+</project>
